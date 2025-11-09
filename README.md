@@ -12,14 +12,23 @@
 - 📊 Skilled in **Data Science**, **Model Development**, and **Data-Driven Problem Solving**  
 - 💡 Currently exploring **LLMs**, **Diffusion Models**, and **AI-driven automation**  
 - 🧮 Comfortable working with **Python**, **TensorFlow**, **PyTorch**, **NumPy**, **Pandas**, and **Scikit-Learn**  
-- 🌱 I love blending **mathematical intuition** with **real-world data applications**  
+- 🌱 I love blending **mathematical intuition** with **real-world data applications**
+- 💻 Experienced in **MERN** and **Frontend development**, building user-friendly and scalable web applications
 
 ---
 
 ### ⚙️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,opencv,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,sklearn,pytorch,opencv" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="50" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="100" width="100" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongo,express,nodejs,mysql" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 ---
