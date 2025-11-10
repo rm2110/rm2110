@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Rishi Mahajan</h1>
+<h1 align="center">👋 Hey there, I'm Rishi Mahajan!</h1>
 
 <p align="center">
   <b>Deep Learning & Generative AI Enthusiast | Data Science | Machine Learning</b>
